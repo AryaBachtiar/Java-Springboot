@@ -1,4 +1,4 @@
-package com.toko.tokoonline.model.exception;
+package com.toko.tokoonline.exception;
 
 public class InternalErrorException extends RuntimeException{
     public InternalErrorException(String message) {

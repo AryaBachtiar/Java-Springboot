@@ -1,4 +1,4 @@
-package com.toko.tokoonline.model.exception;
+package com.toko.tokoonline.exception;
 
 public class NotFoundException extends  RuntimeException{
     public NotFoundException(String message){

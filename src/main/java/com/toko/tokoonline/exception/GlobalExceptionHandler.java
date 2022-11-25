@@ -1,4 +1,4 @@
-package com.toko.tokoonline.model.exception;
+package com.toko.tokoonline.exception;
 
 import com.toko.tokoonline.response.ResponseHelper;
 import org.springframework.http.HttpStatus;

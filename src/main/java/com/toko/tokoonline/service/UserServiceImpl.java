@@ -1,7 +1,7 @@
 package com.toko.tokoonline.service;
 
-import com.toko.tokoonline.model.exception.InternalErrorException;
-import com.toko.tokoonline.model.exception.NotFoundException;
+import com.toko.tokoonline.exception.InternalErrorException;
+import com.toko.tokoonline.exception.NotFoundException;
 import com.toko.tokoonline.model.User;
 import com.toko.tokoonline.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
